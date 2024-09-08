@@ -1,9 +1,5 @@
 //----------------------------------------------------------------------------------
 //  Name:   Petersen, Jake
-//  Project: 5
-//  Due:    12/8/2023
-//  Course: CS-2400-02-F23
-//
 //  Description: Implementaion of an Airport App that holds descriptiosn of airports and can determine cheapest distance between them in a graph.
 //----------------------------------------------------------------------------------
 
